@@ -19,3 +19,6 @@ for i in range(len(string)-len(substring)+1): # range excludes the upper bound
         count+=1
 print(count)
 
+# import numpy as np
+# shuffle_index=np.random.permutation(60000)
+# print(shuffle_index)
